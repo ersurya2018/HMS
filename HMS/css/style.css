@@ -1,0 +1,271 @@
+body{
+    font-family:calibri;
+}
+.fantfam
+{
+    font-family:calibri;
+    
+}
+
+*
+{
+    padding:0px;
+    margin:0px;
+}
+.shado
+{
+    box-shadow: 4px 4px 9px black;
+}
+body{
+background-color: #E1F5FE;
+}
+/*header row  one css*/
+.header_row1
+{
+min-height: 30px;
+background-color: #ebfaf3;
+}
+.b
+{
+    float:right;
+}
+.a
+{
+    height: 20px;
+    width:20px;
+    border-radius: 50px;
+    padding-top:.2%;
+    text-align: center;
+    border:1px solid rgb(250, 249, 249);
+    }
+.c
+{
+    color:rgb(14, 12, 12);
+    font-weight:bold;
+}
+.header_row1 a{
+    text-decoration: none;
+    color: white;
+    
+}
+/*header row  tow css*/
+.school_name
+{
+    font-size: 45px;
+    font-weight: bold;
+    text-align: center;
+    color:red;
+    /* font-family: Helvetica; */
+    font-family: calibri;
+}
+/* menu bar */
+#menu
+{
+    border-radius:10px; 
+    background-color:#f3f7f5;
+    
+}
+#menu ul li{
+    /* border: 1px solid red; */
+    margin-left: 15px;
+   
+}
+#menu ul li a{
+   /* font-size: 15px; */
+   font-weight: bold;
+   color:rgb(14, 13, 13);
+   font-family:calibri ;
+   font-size: 19px;
+   
+}
+#menu ul li a:hover
+{
+    color:red;
+    transition: ease 1s;
+} 
+
+
+/* footer */
+.webfoot
+{
+    min-height: 200px;
+    background-color: rgb(14, 11, 11);
+    color:white;
+     
+    border:1px solid;
+    padding:10px;
+    border-radius: 10px;
+    /* border:1px solid red; */
+}
+.bfooter
+{
+    min-height:200px;
+    /* background-color: #69F0AE; */
+    padding:5px;
+    margin-left: 20px;
+    
+    border-radius: 20px;
+    /*border:1px solid red;*/
+    
+}
+.fabout
+{
+    font-size: 20px;
+    font-family:Rockwell;
+    font-weight: bold;
+}
+#fmenu ul
+{
+    list-style-type:none;
+}
+#fmenu ul li{
+    display: inline;
+    /* border:1px solid red; */
+    padding:10px;
+
+}
+#fmenu ul li a{
+    color:white;
+    font-size: 25px;
+    font-family:Rockwell
+}
+#fmenu ul li a:hover
+{
+color:green;
+transition: ease 1s;
+}
+#flink
+{
+    list-style-type:none;
+}
+#flink li 
+{
+    margin-top: 10px;
+    
+}
+#flink li a{
+    text-decoration: none;
+    color:white;
+    font-size: 15px;
+
+}
+#flink li a:hover{
+color:green;
+transition: ease 1s;
+}
+#flink li span:hover{
+    color:green;
+    transition: ease 1s;
+    }
+#gouter
+{
+    min-height: 500px;
+    /* border:1px solid red; */
+}
+#banner
+{
+    margin-top: 10px;
+    height:350px;
+    width:95%;
+    color:white;
+    text-align: center;
+}
+/* image gllary */
+.img
+{
+    min-height:100%;
+    /* background-color: red; */
+    border: 5px solid #eda33e;
+    border-radius: 5px;
+}
+
+#imgresize
+{
+    height:300px;
+   width:100%;
+   transition: ease 1s;
+}
+/* imgresize:hover
+{
+    /* height:350px; */
+    /* transition:ease 1s;
+    transform: scale(1.1); */
+/* } */ */
+/* contact us page */
+#fflink
+{
+    list-style-type:none;
+}
+#fflink li 
+{
+    margin-top: 15px;
+    /* border:1px solid red; */
+    font-size: 20px;
+    color:black;
+    
+}
+.location
+{
+    min-height:300px;
+    width:100%;
+    background-color: white;
+    border:5px solid #eda33e;
+    border-radius: 10px;
+    padding:10px;
+    /* box-shadow: 5px 5px 5px #eda33e; */
+}
+iframe
+{
+    min-height:300px;
+    width:100%; 
+}
+
+/* teaching staff */
+#teacher ul
+{
+    list-style-type:none;
+}
+#teacher ul li
+{
+    /* border:1px solid red; */
+    margin-top: 10px;
+   
+}
+#stream li
+{
+ /* border:1px solid red; */
+ font-size: 20px;
+ margin-top:10px;
+ font-family:Rockwell;
+}
+
+/* about us page */
+.about
+{
+    text-align: justify;
+    font-family:calibri;
+    
+}
+.fontabout{
+    font-family: calibri;
+}
+/* <!--index page--> */
+#list ul
+{
+    list-style-type: none;
+}
+#list ul li{
+    /* border:1px solid red; */
+    margin-top: 10px;
+    font-weight: bold;
+}
+#list ol li
+{
+    /* border:1px solid red; */
+    margin-top: 10px;
+    text-align: justify;
+    font-family:Rockwell;
+    font-weight: bold;
+    
+    
+}
